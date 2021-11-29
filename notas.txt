@@ -1,4 +1,6 @@
 git add .
 git commit -m " "
-git push origin mail
+git push origin main
 git status
+
+git pull origin main --allow-unrelated-histories
