@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mateochvz/Test/issues"
   },
-  "homepage": "https://github.com/mateochvz/Test#readme"
+  "homepage": "https://github.com/mateochvz/Test#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
 }
